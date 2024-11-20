@@ -7,3 +7,6 @@
         $$ |  $$ |  $$ |$$  _$$<        $$ |     $$ |  $$ |$$   ____|$$ |  $$ |
         $$ |  \$$$$$$  |$$ | \$$\       $$$$$$$$\\$$$$$$$ |\$$$$$$$\ $$ |  $$ |
         \__|   \______/ \__|  \__|      \________|\_______| \_______|\__|  \__|  
+
+
+tool eğlence amaçlıdır! herhangi bir illegal aktivitede sorumluluk ve yükümlülük size kalmıştır iyi eğlenceler!
