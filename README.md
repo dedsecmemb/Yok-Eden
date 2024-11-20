@@ -13,6 +13,11 @@ tool eğlence amaçlıdır! herhangi bir illegal aktivitede sorumluluk ve yükü
 
 YÜKLEME=
 git clone https://github.com/zenox31/Yok-Eden.git
-cd YOK EDEN
+cd Yok-Eden                  
+
+
 python k.py
+
+
+
 kali linux veya wsl lazımdır
