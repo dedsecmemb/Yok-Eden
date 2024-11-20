@@ -13,6 +13,7 @@ tool eğlence amaçlıdır! herhangi bir illegal aktivitede sorumluluk ve yükü
 
 YÜKLEME=
 git clone https://github.com/zenox31/Yok-Eden.git
+
 cd Yok-Eden                  
 
 
