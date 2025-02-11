@@ -12,7 +12,7 @@
 tool eğlence amaçlıdır! herhangi bir illegal aktivitede sorumluluk ve yükümlülük size kalmıştır iyi eğlenceler!
 
 YÜKLEME=
-git clone https://github.com/zenox31/Yok-Eden.git
+git clone https://github.com/dedsecmemb/Yok-Eden.git
 
 cd Yok-Eden                  
 
